@@ -27,4 +27,4 @@ El programa que controla el movimiento del robot se ha realizado con [Icestudio]
 * Juan Manuel Yáñez Barge
 ## Créditos y agradecimientos
 * [Juan Gonźalez Gómez (Obijuan)](https://github.com/Obijuan)
-* FPGAwars
+* [FPGAwars](http://fpgawars.github.io/)
