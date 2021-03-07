@@ -21,6 +21,8 @@ El programa que controla el movimiento del robot se ha realizado con [Icestudio]
 
 ![](https://github.com/JuanMYB/Robot-apodo-modular/blob/main/Imagenes/circuito_icestudio.png)
 
+***
+
 ## Autor
 * Juan Manuel Yáñez Barge
 ## Créditos y agradecimientos
