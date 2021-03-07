@@ -3,7 +3,7 @@ Un robot modular de tipo gusano construido con servomotores TowerPro SG90 y la F
 
 ![](https://github.com/JuanMYB/Robot-apodo-modular/blob/main/Imagenes/foto_robot.jpg)
 
-Las piezas de cada módulo están diseñadas con FreeCAD(https://www.freecadweb.org/):
+Las piezas de cada módulo están diseñadas con [FreeCAD](https://www.freecadweb.org/):
 
 ![](https://github.com/JuanMYB/Robot-apodo-modular/blob/main/Imagenes/basculante_servo.png)
 
