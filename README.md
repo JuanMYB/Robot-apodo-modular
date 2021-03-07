@@ -22,6 +22,8 @@ El programa que controla el movimiento del robot se ha realizado con [Icestudio]
 
 ![](https://github.com/JuanMYB/Robot-apodo-modular/blob/main/Imagenes/circuito_icestudio.png)
 
+Se utiliza un prescaler para ralentizar la señal de reloj de la FPGA y un registro de desplazamiento para coordinar el movimiento de los servomotores.
+
 ***
 
 ## Autor
