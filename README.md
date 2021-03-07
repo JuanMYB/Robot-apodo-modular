@@ -11,7 +11,7 @@ Las piezas de cada módulo están diseñadas con [FreeCAD](https://www.freecadwe
 
 ![](https://github.com/JuanMYB/Robot-apodo-modular/blob/main/Imagenes/tapa_servo.png)
 
-El programa que controla el movimiento del robot se ha realizado con Icestudio y tiene el siguiente aspecto:
+El programa que controla el movimiento del robot se ha realizado con [Icestudio](https://icestudio.io/) y tiene el siguiente aspecto:
 
 ![](https://github.com/JuanMYB/Robot-apodo-modular/blob/main/Imagenes/circuito_icestudio.png)
 
